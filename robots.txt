@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-alvt5e.salamcuanwin.xyz/sitemap.xml
